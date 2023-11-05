@@ -1,15 +1,9 @@
 # Sentry-Vue-Demo
 
-线上测试地址：http://8.129.234.28:4173/sentry-vue-demo/
-
-sentry平台地址：https://xiekaiyong.sentry.io/issues/?project=4506170714292224&referrer=sidebar
-
 ## sentry 配置参看：
 
 - [前端项目如何接入sentry监控平台？](https://juejin.cn/post/7073139636582744078)
 - https://docs.sentry.io/platforms/javascript/guides/vue/
-- https://xiekaiyong.sentry.io/projects/sentry-vue-demo/getting-started/?product=performance-monitoring&product=session-replay
-- https://docs.sentry.io/platforms/javascript/guides/vue/sourcemaps/
 
 ## 上传 sourcemap 到 sentry 平台上
 
