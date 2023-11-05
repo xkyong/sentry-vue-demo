@@ -1,4 +1,4 @@
-# create-vue-demo
+# Sentry-Vue-Demo
 
 线上测试地址：http://8.129.234.28:4173/sentry-vue-demo/
 
