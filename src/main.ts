@@ -17,8 +17,6 @@ console.log('app: ', app)
 app.use(createPinia())
 app.use(router)
 
-console.log(import.meta.env)
-
 // Sentry.init 应该在 app.mount 之前执行！
 import.meta.env.MODE === 'production' && Sentry.init({
   app,
