@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 // 带有动画的 modal 组件例子：https://cn.vuejs.org/examples/#modal
 import { ref } from 'vue'
 

@@ -4,7 +4,7 @@ defineProps<{
 }>()
 
 const emitError = () => {
-  aa()
+  throw new Error('this is a error instance')
 }
 </script>
 
